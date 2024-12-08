@@ -1,0 +1,11 @@
+{
+    "user": "mcnojo",
+    "repo": "apple-docs",
+    "branch": "main",
+    "docsPath": "docs/",
+    "filePaths": [
+      "introduction.mdx",
+      "getting-started/intro.mdx"
+    ]
+  }
+  
